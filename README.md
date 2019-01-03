@@ -1,2 +1,0 @@
-# TallerAppReact
-Created with CodeSandbox
